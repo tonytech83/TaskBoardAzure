@@ -1,0 +1,1 @@
+[![Build and deploy ASP.Net Core app to Azure Web App - taskboardappnew](https://github.com/tonytech83/TaskBoardAzure/actions/workflows/main_taskboardappnew.yml/badge.svg)](https://github.com/tonytech83/TaskBoardAzure/actions/workflows/main_taskboardappnew.yml)
